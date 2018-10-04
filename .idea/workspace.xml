@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fc162fd-639e-4319-8b2e-cfdb856a5f10" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="212143411">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="67" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="67" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/securityPackage/SingletonLogin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="method#getInstance#0;class#SingletonLogin#0" />
+                <element signature="method#validation#0;class#SingletonLogin#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/securityPackage/SingletonPassword.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getInstance#0;class#SingletonPassword#0" />
+                <element signature="method#passwordValidation#0;class#SingletonPassword#0" />
+                <element signature="method#getPassword#0;class#SingletonPassword#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/securityPackage/SingletonUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getInstance#0;class#SingletonUser#0" />
+                <element signature="method#passwordValidation#0;class#SingletonUser#0" />
+                <element signature="method#getUser#0;class#SingletonUser#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/view/messagesPackage/GeneralDefaultMessages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-28">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="method#additionQuestion#0;class#GeneralDefaultMessages#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/view/messagesPackage/LoginDefaultMessages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding>
+                <element signature="method#wrongPasswordMessage#0;class#LoginDefaultMessages#0" />
+                <element signature="method#wrongUserMessage#0;class#LoginDefaultMessages#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/view/messagesPackage/MembersDefaultMessages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="70" selection-start-line="70" selection-end-line="70" />
+              <folding>
+                <element signature="method#playerFunctionMessage#0;class#MembersDefaultMessages#0" />
+                <element signature="method#playerStatusMessage#0;class#MembersDefaultMessages#0" />
+                <element signature="method#selectSupporterCategoryMessage#0;class#MembersDefaultMessages#0" />
+                <element signature="method#currentCategoryValuesMessage#0;class#MembersDefaultMessages#0" />
+                <element signature="method#setCategoryValueMessage#0;class#MembersDefaultMessages#0" />
+                <element signature="method#supporterQuantity#0;class#MembersDefaultMessages#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/view/messagesPackage/MenuDefaultMessages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="method#employeesMenu#0;class#MenuDefaultMessages#0" />
+                <element signature="method#supportersMenu#0;class#MenuDefaultMessages#0" />
+                <element signature="method#complianceMessage#0;class#MenuDefaultMessages#0" />
+                <element signature="method#resourcesManagementMessage#0;class#MenuDefaultMessages#0" />
+                <element signature="method#reportsMenu#0;class#MenuDefaultMessages#0" />
+                <element signature="method#employeesReportMenu#0;class#MenuDefaultMessages#0" />
+                <element signature="method#teamReportMenu#0;class#MenuDefaultMessages#0" />
+                <element signature="method#supportersReportMenu#0;class#MenuDefaultMessages#0" />
+                <element signature="method#mainMenuMessage#0;class#MenuDefaultMessages#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/view/messagesPackage/ResourcesDefaultMessages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="method#selectResourcesStatus#0;class#ResourcesDefaultMessages#0" />
+                <element signature="method#setTypeMessage#0;class#ResourcesDefaultMessages#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/view/SingletonMessages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="method#getInstance#0;class#SingletonMessages#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/view/ToStringFunctions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="method#toStringPlayerStatus#0;class#ToStringFunctions#0" />
+                <element signature="method#toStringSupporterCompliance#0;class#ToStringFunctions#0" />
+                <element signature="method#toStringSupporterCategory#0;class#ToStringFunctions#0" />
+                <element signature="method#toStringResourceStatus#0;class#ToStringFunctions#0" />
+                <element signature="method#toStringResourceType#0;class#ToStringFunctions#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/controller/menu/facade/SupportersAdditionMenu.java" />
+        <option value="$PROJECT_DIR$/src/com/company/controller/DataManagement/EmployeeDataManagement.java" />
+        <option value="$PROJECT_DIR$/src/com/company/controller/DataManagement/ResourceDataManagement.java" />
+        <option value="$PROJECT_DIR$/src/com/company/controller/DataManagement/SupporterDataManagement.java" />
+        <option value="$PROJECT_DIR$/src/com/company/controller/menu/facade/EmployeeAdditionMenu.java" />
+        <option value="$PROJECT_DIR$/src/com/company/controller/menu/facade/ReportsMenu.java" />
+        <option value="$PROJECT_DIR$/src/com/company/controller/menu/facade/ResourcesManagementMenu.java" />
+        <option value="$PROJECT_DIR$/src/com/company/controller/menu/Menu.java" />
+        <option value="$PROJECT_DIR$/src/com/company/model/personPackage/employeeFactory/Doctor.java" />
+        <option value="$PROJECT_DIR$/src/com/company/model/personPackage/employeeFactory/Driver.java" />
+        <option value="$PROJECT_DIR$/src/com/company/model/personPackage/employeeFactory/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/company/model/personPackage/employeeFactory/GeneralEmployee.java" />
+        <option value="$PROJECT_DIR$/src/com/company/model/personPackage/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/company/model/personPackage/Supporter.java" />
+        <option value="$PROJECT_DIR$/src/com/company/model/resourcesFactory/Resources.java" />
+        <option value="$PROJECT_DIR$/src/com/company/model/resourcesFactory/TrainingCenter.java" />
+        <option value="$PROJECT_DIR$/src/com/company/securityPackage/SingletonLogin.java" />
+        <option value="$PROJECT_DIR$/src/com/company/securityPackage/SingletonPassword.java" />
+        <option value="$PROJECT_DIR$/src/com/company/securityPackage/SingletonUser.java" />
+        <option value="$PROJECT_DIR$/src/com/company/view/SingletonMessages.java" />
+        <option value="$PROJECT_DIR$/src/com/company/model/personPackage/employeeFactory/FootballPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/model/resourcesFactory/Stadium.java" />
+        <option value="$PROJECT_DIR$/src/com/company/view/messagesPackage/LoginDefaultMessages.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="398" />
+    <option name="y" value="62" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Isoccer-refatorado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isoccer-refatorado" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Isoccer-refatorado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isoccer-refatorado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Isoccer-refatorado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isoccer-refatorado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Isoccer-refatorado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isoccer-refatorado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Isoccer-refatorado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isoccer-refatorado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="DataManagement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Isoccer-refatorado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isoccer-refatorado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Isoccer-refatorado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isoccer-refatorado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="menu" type="462c0819:PsiDirectoryNode" />
+              <item name="facade" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Isoccer-refatorado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isoccer-refatorado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Isoccer-refatorado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isoccer-refatorado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Isoccer-refatorado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isoccer-refatorado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="personPackage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Isoccer-refatorado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isoccer-refatorado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="personPackage" type="462c0819:PsiDirectoryNode" />
+              <item name="employeeFactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Isoccer-refatorado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isoccer-refatorado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="resourcesFactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Isoccer-refatorado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isoccer-refatorado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="securityPackage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Isoccer-refatorado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isoccer-refatorado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Isoccer-refatorado" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Isoccer-refatorado" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="messagesPackage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538664168566" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Gabriel Cerqueira\java projects\Isoccer-refatorado\src\com\company" />
+      <recent name="D:\Gabriel Cerqueira\java projects\Isoccer-refatorado\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.controller.Main" />
+      <module name="Isoccer-refatorado" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fc162fd-639e-4319-8b2e-cfdb856a5f10" name="Default Changelist" comment="" />
+      <created>1538663488213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538663488213</updated>
+      <workItem from="1538663491858" duration="685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="685000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="398" y="62" width="1400" height="1000" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.3290993" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290993" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/controller/DataManagement/EmployeeDataManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="method#addEmployee#0;class#EmployeeDataManagement#0" />
+            <element signature="method#getEmployee#0;class#EmployeeDataManagement#0" />
+            <element signature="method#printEmployee#0;class#EmployeeDataManagement#0" />
+            <element signature="method#printPlayersReport#0;class#EmployeeDataManagement#0" />
+            <element signature="method#printRegularEmployeesReport#0;class#EmployeeDataManagement#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/controller/DataManagement/ResourceDataManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="method#addResource#0;class#ResourceDataManagement#0" />
+            <element signature="method#getResource#0;class#ResourceDataManagement#0" />
+            <element signature="method#isAvailable#0;class#ResourceDataManagement#0" />
+            <element signature="method#printResource#0;class#ResourceDataManagement#0" />
+            <element signature="method#printReport#0;class#ResourceDataManagement#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/controller/DataManagement/SupporterDataManagement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#SupporterDataManagement#0;class#SupporterDataManagement#0" />
+            <element signature="method#setCategoryValue#0;class#SupporterDataManagement#0" />
+            <element signature="method#addSupporter#0;class#SupporterDataManagement#0" />
+            <element signature="method#changeCompliance#0;class#SupporterDataManagement#0" />
+            <element signature="method#getSupporter#0;class#SupporterDataManagement#0" />
+            <element signature="method#printSupporter#0;class#SupporterDataManagement#0" />
+            <element signature="method#printDefaulterReport#0;class#SupporterDataManagement#0" />
+            <element signature="method#printDefaultingReport#0;class#SupporterDataManagement#0" />
+            <element signature="method#printReport#0;class#SupporterDataManagement#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/controller/menu/facade/EmployeeAdditionMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
+          <folding>
+            <element signature="method#menu#0;class#EmployeeAdditionMenu#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/controller/menu/facade/Facade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="method#Facade#0;class#Facade#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/controller/menu/facade/ReportsMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="method#menu#0;class#ReportsMenu#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/controller/menu/facade/ResourcesManagementMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="method#menu#0;class#ResourcesManagementMenu#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/controller/menu/facade/SupportersAdditionMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="method#menu#0;class#SupportersAdditionMenu#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/controller/menu/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="method#mainMenu#0;class#Menu#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/controller/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="method#main#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/controller/SingletonInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="method#getInstance#0;class#SingletonInput#0" />
+            <element signature="method#floatInput#0;class#SingletonInput#0" />
+            <element signature="method#longInput#0;class#SingletonInput#0" />
+            <element signature="method#emailInput#0;class#SingletonInput#0" />
+            <element signature="method#numberedInput#0;class#SingletonInput#0" />
+            <element signature="method#integerInput#0;class#SingletonInput#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/model/enums/EmployeeType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+          <folding>
+            <element signature="method#EmployeeType#0;class#EmployeeType#0" />
+            <element signature="method#getKey#0;class#EmployeeType#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/model/enums/PlayerFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding>
+            <element signature="method#PlayerFunction#0;class#PlayerFunction#0" />
+            <element signature="method#getKey#0;class#PlayerFunction#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/model/personPackage/employeeFactory/Doctor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="method#Doctor#0;class#Doctor#0" />
+            <element signature="method#toString#0;class#Doctor#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/model/personPackage/employeeFactory/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="method#Driver#0;class#Driver#0" />
+            <element signature="method#toString#0;class#Driver#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/model/personPackage/employeeFactory/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="method#Employee#0;class#Employee#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/model/personPackage/employeeFactory/EmployeeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="method#createEmployee#0;class#EmployeeFactory#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/model/personPackage/employeeFactory/FootballPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="method#FootballPlayer#0;class#FootballPlayer#0" />
+            <element signature="method#setPlayerStatus#0;class#FootballPlayer#0" />
+            <element signature="method#toString#0;class#FootballPlayer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/model/personPackage/employeeFactory/GeneralEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="method#toString#0;class#GeneralEmployee#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/model/personPackage/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="method#Person#0;class#Person#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/model/personPackage/Supporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Supporter#0;class#Supporter#0" />
+            <element signature="method#setSupporterCategory#0;class#Supporter#0" />
+            <element signature="method#toString#0;class#Supporter#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/model/resourcesFactory/Bus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/model/resourcesFactory/ResourceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="method#createResource#0;class#ResourceFactory#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/model/resourcesFactory/Resources.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Resources#0;class#Resources#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/model/resourcesFactory/Stadium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="method#Stadium#0;class#Stadium#0" />
+            <element signature="method#toString#0;class#Stadium#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/model/resourcesFactory/TrainingCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="method#TrainingCenter#0;class#TrainingCenter#0" />
+            <element signature="method#toString#0;class#TrainingCenter#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/securityPackage/SingletonLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="method#getInstance#0;class#SingletonLogin#0" />
+            <element signature="method#validation#0;class#SingletonLogin#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/securityPackage/SingletonPassword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getInstance#0;class#SingletonPassword#0" />
+            <element signature="method#passwordValidation#0;class#SingletonPassword#0" />
+            <element signature="method#getPassword#0;class#SingletonPassword#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/securityPackage/SingletonUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getInstance#0;class#SingletonUser#0" />
+            <element signature="method#passwordValidation#0;class#SingletonUser#0" />
+            <element signature="method#getUser#0;class#SingletonUser#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/messagesPackage/GeneralDefaultMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="method#additionQuestion#0;class#GeneralDefaultMessages#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/messagesPackage/LoginDefaultMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding>
+            <element signature="method#wrongPasswordMessage#0;class#LoginDefaultMessages#0" />
+            <element signature="method#wrongUserMessage#0;class#LoginDefaultMessages#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/messagesPackage/MembersDefaultMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="method#playerFunctionMessage#0;class#MembersDefaultMessages#0" />
+            <element signature="method#playerStatusMessage#0;class#MembersDefaultMessages#0" />
+            <element signature="method#selectSupporterCategoryMessage#0;class#MembersDefaultMessages#0" />
+            <element signature="method#currentCategoryValuesMessage#0;class#MembersDefaultMessages#0" />
+            <element signature="method#setCategoryValueMessage#0;class#MembersDefaultMessages#0" />
+            <element signature="method#supporterQuantity#0;class#MembersDefaultMessages#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/messagesPackage/MenuDefaultMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="method#employeesMenu#0;class#MenuDefaultMessages#0" />
+            <element signature="method#supportersMenu#0;class#MenuDefaultMessages#0" />
+            <element signature="method#complianceMessage#0;class#MenuDefaultMessages#0" />
+            <element signature="method#resourcesManagementMessage#0;class#MenuDefaultMessages#0" />
+            <element signature="method#reportsMenu#0;class#MenuDefaultMessages#0" />
+            <element signature="method#employeesReportMenu#0;class#MenuDefaultMessages#0" />
+            <element signature="method#teamReportMenu#0;class#MenuDefaultMessages#0" />
+            <element signature="method#supportersReportMenu#0;class#MenuDefaultMessages#0" />
+            <element signature="method#mainMenuMessage#0;class#MenuDefaultMessages#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/messagesPackage/ResourcesDefaultMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="method#selectResourcesStatus#0;class#ResourcesDefaultMessages#0" />
+            <element signature="method#setTypeMessage#0;class#ResourcesDefaultMessages#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/SingletonMessages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="method#getInstance#0;class#SingletonMessages#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/view/ToStringFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="method#toStringPlayerStatus#0;class#ToStringFunctions#0" />
+            <element signature="method#toStringSupporterCompliance#0;class#ToStringFunctions#0" />
+            <element signature="method#toStringSupporterCategory#0;class#ToStringFunctions#0" />
+            <element signature="method#toStringResourceStatus#0;class#ToStringFunctions#0" />
+            <element signature="method#toStringResourceType#0;class#ToStringFunctions#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
